@@ -1,6 +1,7 @@
 <?php
 
 require "config/constants.php";
+mysql.default_socket = /path/to/mysql.sock
 
 $servername = HOST;
 $username = USER;
