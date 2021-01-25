@@ -1,6 +1,6 @@
 <?php
 
-define('HOST', '127.0.0.1');
+define('HOST', 'localhost');
 define('USER', 'root');
 define('PASSWORD', '');
 define('DATABASE_NAME', 'store_db');
